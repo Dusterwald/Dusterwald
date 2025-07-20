@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dusterwald (Sebastian Dusterwald), Senior Software Developer at Company-X, and CTO at Global-Regulation Inc.
-- 👀 I’m interested in web development, game development, computer graphics, AI/ML
+- 👋 Hi, I’m @Dusterwald (Sebastian Dusterwald), Senior Software Developer at Company-X.
+- 👀 I’m interested in game development, computer graphics, XR, AI/ML
 - 🌱 I’m currently learning various React things, Unity VR development, TensorFlow/PyTorch, 🤗 Transformers
 - 🏠 Homepage: www.dusterwald.com
 
